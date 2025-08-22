@@ -1,0 +1,11 @@
+#arquivo de requisitos para o projeto
+
+#pacote que vai verificar a saude da API
+fastapi
+pydantic
+uvicorn         
+
+#Comando que vai intalar os pacotes
+#pip install -r requirements.txt
+#Comando que vai rodar a API
+#uvicorn pet-API.app.main:app --reload
