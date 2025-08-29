@@ -1,11 +1,6 @@
-#arquivo de requisitos para o projeto
-
-#pacote que vai verificar a saude da API
+#Arquivo para listar as bibliotecas que o projeto utiliza
 fastapi
+uvicorn
 pydantic
-uvicorn         
+pydantic-settings       
 
-#Comando que vai intalar os pacotes
-#pip install -r requirements.txt
-#Comando que vai rodar a API
-#uvicorn pet-API.app.main:app --reload
